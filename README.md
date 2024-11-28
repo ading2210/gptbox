@@ -2,7 +2,7 @@
 
 This is a Python script which generates coreutils programs on the fly. Think of it as `busybox` but generated with AI. 
 
-https://raw.githubusercontent.com/ading2210/gptbox/refs/heads/main/media/demo.mp4
+https://github.com/user-attachments/assets/65cc4167-240d-4ab5-94b5-f2ccd32e7a64
 
 ### Why?
 AI is everywhere now. Why not replace your coreutils with it? 
